@@ -22,7 +22,7 @@ Aqui estão as principais tecnologias que utilizo 👇
             
   <h1>Principais Tecnologias em projetos</h1>
   <a href="https://github.com/theus-dev">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=theus-dev&theme=react&show_icons=true">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=theus-dev&theme=react&show_icons=true&layout=compact">
   
  
 </div>
