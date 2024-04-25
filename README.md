@@ -13,6 +13,10 @@ Aqui estão as principais tecnologias que utilizo 👇
 <img height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+
+<h2>Visite meu Repositório principal:</h2>
+<a href="https://github.com/theus-dev/Java">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=theus-dev&repo=Java&show_owner=true">
           
 </div>
 <div style ="display: inline_block"> <br>
