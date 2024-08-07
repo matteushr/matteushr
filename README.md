@@ -2,7 +2,7 @@
 
 Eu curso Sistemas de Informação pelo IFMG 📚<br>
 Sempre que possível, busco contribuir com projetos ⚡<br>
-Estou no momento me aprofundando em Java <br>
+Estou no momento me aprofundando em Node.js e APIs RESTful <br>
 
 
 
