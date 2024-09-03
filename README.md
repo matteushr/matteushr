@@ -1,8 +1,6 @@
-<h1> Olá! Eu sou Matheus Henrique, e amo tecnologia! 👋</h1>
+<h1> Objetivos e Motivações </h1>
 
-Eu curso Sistemas de Informação pelo IFMG 📚<br>
-Sempre que possível, busco contribuir com projetos ⚡<br>
-Estou no momento me aprofundando em Node.js e APIs RESTful <br>
+O meu objetivo é encontrar meu primeiro emprego, e tudo que preciso é de uma Oportunidade. Oportunidade esta de mostrar que tenho potencial e que estou pronto para fazer parte de uma equipe de devs
 
 
 
