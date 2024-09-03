@@ -1,10 +1,20 @@
-<h1> Objetivos e Motivações </h1>
+<h1> Olá, sou Matheus! </h1>
 
-O meu objetivo é encontrar meu primeiro emprego, e tudo que preciso é de uma Oportunidade. Oportunidade esta de mostrar que tenho potencial e que estou pronto para fazer parte de uma equipe de devs
+Por aqui meu objetivo é mostrar aplicação de conhecimento que estou adquirindo em cursos, na faculdade, bootcamps e outras fontes de aprendizado.
+
+Tenho projetos já prontos em Java, Node.js, e HTML/CSS. Todos eles me fizeram ter entendimento melhor de lógica e a ter mais facilidade em aprender novas ferramentas para projetos mais elaborados.
+
+<h4>Objetivo</h4>
+Estou em busca de uma oportunidade de estágio para mostrar que estou pronto pra fazer parte de uma equipe de TI. Estou pronto para aprender novas tecnologias e me adapto a tecnologias que tenho pouco ou nenhum conhecimento 
+se necessario
 
 
 
-Aqui estão as principais tecnologias que utilizo 👇
+Você pode ver mais a fundo clicando no repositório abaixo..
+
+
+
+
 <div style="display: inline_block"><br>
 <img height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
