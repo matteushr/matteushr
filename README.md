@@ -23,18 +23,18 @@ Você pode ver mais a fundo clicando no repositório abaixo..
 <img height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 
 <h2>Visite meu Repositório principal:</h2>
-<a href="https://github.com/theus-dev/Java">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=theus-dev&repo=Java&show_owner=true">
+<a href="https://github.com/matteushr/Faculdade">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=matteushr&repo=Faculdade&show_owner=true">
           
 </div>
 <div style ="display: inline_block"> <br>
   <h1>Visão Geral</h1>
   <a href="https://github.com/theus-dev">
-  <img src="https://github-readme-stats.vercel.app/api?username=theus-dev&theme=react&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=matteushr&theme=react&show_icons=true">
             
   <h1>Principais Tecnologias em projetos</h1>
-  <a href="https://github.com/theus-dev">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=theus-dev&theme=react&show_icons=true&layout=compact">
+  <a href="https://github.com/matteushr">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=matteushr&theme=react&show_icons=true&layout=compact">
   
  
 </div>
