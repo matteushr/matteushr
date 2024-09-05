@@ -15,7 +15,7 @@ problemas da vida real.
 No meu repositório Projetos, você vai poder visualizar melhor oque estou aprendendo no momento, clica aqui 👇
 
 <h2>Visite meu Repositório principal:</h2>
-<a href="https://github.com/matteushr/Projetos">
+<a href="https://github.com/matteushr/Principal">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=matteushr&repo=Principal">
           
 </div>
