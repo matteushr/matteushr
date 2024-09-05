@@ -12,17 +12,17 @@ Espere encontrar por aqui projetos que acompanham em tempo real tudo que eu vou 
 Minha próxima meta é entrar para uma equipe de desenvolvimento. Eu acredito muito que estar em contato e colaborar com outros devs vai me trazer uma grande evolução e experiência, que vai me preparar melhor para solucionar
 problemas da vida real.
 <p> </p>
-No meu repositório Faculdade, você vai poder visualizar melhor oque estou aprendendo no momento, clica aqui 👇
+No meu repositório Projetos, você vai poder visualizar melhor oque estou aprendendo no momento, clica aqui 👇
 
 <h2>Visite meu Repositório principal:</h2>
-<a href="https://github.com/matteushr/Faculdade">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=matteushr&repo=Faculdade&show_owner=true">
+<a href="https://github.com/matteushr/Projetos">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=matteushr&repo=Principal">
           
 </div>
 <div style ="display: inline_block"> <br>
   <h1>Visão Geral</h1>
   <a href="https://github.com/theus-dev">
-  <img src="https://github-readme-stats.vercel.app/api?username=matteushr&theme=react&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=matteushr&show_owner=true&theme=react&show_icons=true">
             
   <h1>Principais Tecnologias em projetos</h1>
   <a href="https://github.com/matteushr">
