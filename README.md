@@ -1,26 +1,18 @@
-<h1> Olá, sou Matheus! </h1>
+ # Olá, sou Matheus!
 
-Por aqui meu objetivo é mostrar aplicação de conhecimento que estou adquirindo em cursos, na faculdade, bootcamps e outras fontes de aprendizado.
+Espere encontrar por aqui projetos que acompanham em tempo real tudo que eu vou aprendendo. Estou sempre conhecendo conceitos novos e aplicando, seja de cursos, da minha faculdade e até mesmo outros repositórios.
+## Meu foco é simples:
 
-Tenho projetos já prontos em Java, Node.js, e HTML/CSS. Todos eles me fizeram ter entendimento melhor de lógica e a ter mais facilidade em aprender novas ferramentas para projetos mais elaborados.
+- Conhecer, aprender e aplicar
+- Não conheço? Vou procurar saber sobre
+- Não sei fazer algo? Vou procurar oque preciso saber para fazer
+ 
+## Motivação
 
-<h4>Objetivo</h4>
-Estou em busca de uma oportunidade de estágio para mostrar que estou pronto pra fazer parte de uma equipe de TI. Estou pronto para aprender novas tecnologias e me adapto a tecnologias que tenho pouco ou nenhum conhecimento 
-se necessario
-
-
-
-Você pode ver mais a fundo clicando no repositório abaixo..
-
-
-
-
-<div style="display: inline_block"><br>
-<img height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+Minha próxima meta é entrar para uma equipe de desenvolvimento. Eu acredito muito que estar em contato e colaborar com outros devs vai me trazer uma grande evolução e experiência, que vai me preparar melhor para solucionar
+problemas da vida real.
+<p> </p>
+No meu repositório Faculdade, você vai poder visualizar melhor oque estou aprendendo no momento, clica aqui 👇
 
 <h2>Visite meu Repositório principal:</h2>
 <a href="https://github.com/matteushr/Faculdade">
