@@ -1,6 +1,6 @@
- # Hey there, i'm Matheus!
+ # Hey!👋 i'm Matheus.
 
-I'm a developer aiming to deepen my acknoledge in software development along with AI/ML solutions through hands-on projects and collaboration.
+As software developer, i'm aiming to deepen my acknoledge in software development along with AI/ML solutions through hands-on projects and collaboration.
 
 ## Key objectives in my run:
 
@@ -16,25 +16,47 @@ Python ( Implementation)
 
 I'm currently working with Python exclusively to handle connections and deepen studies with AI (agents, LLMs in general) and TS to the basis of backend, server.
 
-The project i'm working actively: 👇
+## 🛠️ Tech Stack
 
-<a href="[https://github.com/matteushr/api-rest-node](https://github.com/matteushr/rest-api-dev)">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=matteushr&repo=rest-api-dev">
-          
+### **Backend Development**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white)
+![Knex.js](https://img.shields.io/badge/Knex.js-EB4A4B?style=flat&logo=knex.js&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-  <h1>General vision</h1>
-  <a href="https://github.com/matteushr">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=matteushr&theme=react&show_icons=true&layout=compact">
-  
+### **AI & Data**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+
+### **Databases**
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+
+## 🔥 Active Project
+
+### REST API Development Template
+[![REST API Template](https://github-readme-stats.vercel.app/api/pin/?username=matteushr&repo=rest-api-dev&theme=react)](https://github.com/matteushr/rest-api-dev)
+
+A production-ready template for building REST APIs with TypeScript, Fastify, and SQLite. Features:
+- JWT Authentication
+- Database migrations with Knex.js
+- Automated testing setup
+- CI/CD pipeline integration
  
 </div>
 
-<h1>Find me in the following socials:</h1>
-<div style="display: inline_block>
-<a href="http://www.linkedin.com/in/araujo-developer" target="_blank">          
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+## 📊 GitHub Stats
 
-<a href="https://leetcode.com/theus-dev/" target="_blank">          
-<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matteushr&theme=react&layout=compact)](https://github.com/matteushr)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=matteushr&theme=react)](https://github.com/matteushr)
+
+---
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/araujo-developer)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/theus-dev/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matteushr)
           
