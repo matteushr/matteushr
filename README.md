@@ -1,37 +1,35 @@
- # Olá, sou Matheus!
+ # Hey there, i'm Matheus!
 
-Espere encontrar por aqui projetos que acompanham em tempo real tudo que eu vou aprendendo. Estou sempre conhecendo conceitos novos e aplicando, seja de cursos, da minha faculdade e até mesmo outros repositórios.
-## Meu foco é simples:
+I'm a developer aiming to deepen my acknoledge in software development along with AI/ML solutions through hands-on projects and collaboration.
 
-- Conhecer, aprender e aplicar
-- Não conheço? Vou procurar saber sobre
-- Não sei fazer algo? Vou procurar oque preciso saber para fazer
+## Key objectives in my run:
+
+- **Master API Development**: and implementation
+- **Deepen AI Acknoledge**: Develop and enhance AI skills even further with agents and AI-driven solutions.
+- **Find Opportunities**: Grow through meaningful projects and collaborations.
  
-## Motivação
+## Currently..
 
-Minha próxima meta é entrar para uma equipe de desenvolvimento. Eu acredito muito que estar em contato e colaborar com outros devs vai me trazer uma grande evolução e experiência, que vai me preparar melhor para solucionar
-problemas da vida real.
-<p> </p>
-No meu repositório Projetos, você vai poder visualizar melhor oque estou aprendendo no momento, clica aqui 👇
+I'm mastering my skills with API development and implementation using:
+TS, Fastify, Knex.js, Postman, SQLite (Creating from scratch)
+Python ( Implementation)
 
-<h2>Visite meu Repositório principal:</h2>
-<a href="https://github.com/matteushr/Principal">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=matteushr&repo=Principal">
+I'm currently working with Python exclusively to handle connections and deepen studies with AI (agents, LLMs in general) and TS to the basis of backend, server.
+
+The project i'm working actively: 👇
+
+<a href="[https://github.com/matteushr/api-rest-node](https://github.com/matteushr/rest-api-dev)">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=matteushr&repo=rest-api-dev">
           
-</div>
-<div style ="display: inline_block"> <br>
-  <h1>Visão Geral</h1>
-  <a href="https://github.com/theus-dev">
-  <img src="https://github-readme-stats.vercel.app/api?username=matteushr&show_owner=true&theme=react&show_icons=true">
-            
-  <h1>Principais Tecnologias em projetos</h1>
+
+  <h1>General vision</h1>
   <a href="https://github.com/matteushr">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=matteushr&theme=react&show_icons=true&layout=compact">
   
  
 </div>
 
-<h1>Entre em contato comigo 👇</h1>
+<h1>Find me in the following socials:</h1>
 <div style="display: inline_block>
 <a href="http://www.linkedin.com/in/araujo-developer" target="_blank">          
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -40,19 +38,3 @@ No meu repositório Projetos, você vai poder visualizar melhor oque estou apren
 <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
 </div>
           
-
-
-<!--
-**theus-dev/theus-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
